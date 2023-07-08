@@ -1,0 +1,13 @@
+/**
+ * Get All Post Api
+ */
+export const GET_HOME_DATA_REQUEST = "GET_HOME_DATA_REQUEST";
+export const GET_HOME_DATA_SUCCESS = "GET_HOME_DATA_SUCCESS";
+export const GET_HOME_DATA_FAILED = "GET_HOME_DATA_FAILED";
+
+/**
+ * Create Post Api
+ */
+// export const GET_HOME_DATA_REQUEST = "GET_HOME_DATA_REQUEST";
+// export const GET_HOME_DATA_SUCCESS = "GET_HOME_DATA_SUCCESS";
+// export const GET_HOME_DATA_FAILED = "GET_HOME_DATA_FAILED";
